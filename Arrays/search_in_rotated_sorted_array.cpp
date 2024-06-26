@@ -5,7 +5,7 @@
 //Input: nums = [4,5,6,7,0,1,2], target = 0
 //Output: 4
 
-//my approach: rotated the array then searched the target , here i considered the pivot idex as target index then permormed the rotation 
+//my approach: rotated the array then searched the target , here i considered the pivot idex as target index then performed the rotation 
 //and again used target variable to search in sorted array and return its index
 
 #include <iostream>
